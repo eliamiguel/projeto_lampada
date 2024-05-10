@@ -1,0 +1,43 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container{
+  text-align: center;
+  margin-top: 70px;
+ 
+}
+.container h1{
+  font-size: 50px;
+}
+.container-img{
+  margin-top: 40px;
+}
+
+button{
+  padding:10px 20px;
+  border-radius: 8px;
+  font-size: 18px;
+  font-weight: bold;
+  cursor: pointer;
+  margin-top: 40px;
+}
+.container p{
+  
+  margin-top: 100px;
+ 
+}
+.conserto{
+  display: none;
+}
+.conserto2{
+  background-color:red;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  border: none;
+  
+}
+ 
